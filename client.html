@@ -1,0 +1,18 @@
+<htm>
+    <head><title>moisture-client</title>
+    
+        <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+        <script>
+            var socket = io();
+            
+            socket.on('stream', function(data) {
+                document.getElementById("myspan").textContent = data;
+            });
+        </script>
+    </head>
+    
+    <body>
+        <h1>Moisture-galileo</h1>
+        <span id="myspan">data</span>
+    </body>
+</htm>

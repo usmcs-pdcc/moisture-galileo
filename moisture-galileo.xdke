@@ -1,0 +1,66 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1458268365117,
+        "modified": 1458268365117,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1458808787728,
+        "modified": 1458808787728,
+        "seen": true,
+        "name": "main.js"
+      },
+      "moisture-galileo.xdk": {
+        "previousModTime": 1458268365272,
+        "modified": 1458268365272,
+        "seen": true,
+        "name": "moisture-galileo.xdk"
+      },
+      "moisture-galileo.xdke": {
+        "previousModTime": 1458808728076,
+        "modified": 1458808728076,
+        "seen": true,
+        "name": "moisture-galileo.xdke"
+      },
+      "package.json": {
+        "previousModTime": 1458798941191,
+        "modified": 1458798941191,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1458268365119,
+        "modified": 1458268365119,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1458268365250,
+        "modified": 1458268365250,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "client.html": {
+        "previousModTime": 1458808313008,
+        "modified": 1458808313008,
+        "seen": true,
+        "name": "client.html"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1458808792829
+      }
+    }
+  }
+}
